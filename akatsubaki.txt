@@ -1,0 +1,116 @@
+<!DOCTYPE htmml PUBLIC "-//W3//DTD XHTML 1.0 STRICT // EN"
+	"http//:www.w3.org/TR/xhtml1/DTD/chtml1-strict.dtd">
+<html xmlns= " http//:www.w3.org/1999/xhtml">
+	<head>
+		<title>Personal IS: Akatsubaki</title>
+		<style>
+		.title
+			{
+			color: #000088 ;
+			font-family:  Verdana;
+			background-color: #00FFFF;
+			padding-left: 0px;
+			text-align: center;
+			}
+		.title2
+			{
+			color: #000088 ;
+			font-family:  Verdana;
+			background-color: #CC0099;
+			width:50%;
+			padding-left: 0px;
+			text-align: center;
+			}
+		body
+			{
+			background-color: #000000;
+			color: #0000FF;
+			}
+		
+		#side
+			{
+			
+			float-left;
+			border-width:3px;
+			border-style: solid;
+			border-color: #FF9900;
+			background-color: #FFFF33;
+			width:200px;
+			height:800px;
+			color: #000000;
+			}
+		.text
+			{
+			color: #CC0099;
+			}
+		.title , .title2 , #side , .pictures , .text {position: absolute;}
+
+		.title2 , #side , .pictures , .text { top: 120px;}
+		.title2 {top: 60px; margin-left: 300px;}
+		.pictures {top: 150 px; left:275px; }
+		.title{ width: 99%; }
+		.text {top: 380px; left: 680px;}
+		
+
+		
+		</style>
+	<head>
+
+<body>
+
+<h2 class="title">Inifinite Stratos</h2>
+
+
+
+<h3 class ="title2"><em>Akatsubaki</em></h3>
+
+
+<div id="side">
+<h4>Collection</h4>
+<ul>
+	<li><a href="home2.html">Home</a></li>
+	<li><a href="characters.html">Characters</a></li>
+	<li><a href="IS.html">Personal IS</a></li>
+			<ul>
+			<li><a href="byakushiki.html"> Byakushiki</a> </li>
+	<li><a href="akatsubaki.html"> Akatsubaki</a></li>
+	<li><a href="bluetears.html"> Blue Tears</a></li>
+	<li><a href="shenglong.html"> Shenglong</a></li>
+	<li><a href="rrc2.html"> Rafale Revive Custom II</a></li>
+	<li><a href="sr.html"> Schwarzer Regen</a></li>
+		</ul>
+
+</ul>
+</div>
+
+<div class="pictures">
+<img src="aka1.jpg" width="40%">
+<img src="aka2.jpg" width= "40%">
+<img src="aka3.png">
+</div>
+
+
+<div class="text">
+<h4>Akatsubaki</h4>
+<p>
+<ul>
+	<li>Pilot: Houki Shinonono</li>
+	<li>Generation: 4th </li>
+	<li>Type: short-ranged </li>
+	<li>Weapons: </li>
+		<ul>
+		<li>Amazuki (Katana)</li>
+		<li>Kawara (Katana)</li>
+		</ul>
+	<li>Special Ablility: </li>
+		<ul>
+		<li>Folding Armor</li>
+		<li>Kenran Butou (Automatic Energy Replenisher)</li>
+		</ul>
+	
+</ul>
+</p>
+</div>
+
+</body>
+</html>

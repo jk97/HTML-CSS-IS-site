@@ -1,0 +1,160 @@
+
+<!DOCTYPE htmml PUBLIC "-//W3//DTD XHTML 1.0 STRICT // EN"
+	"http//:www.w3.org/TR/xhtml1/DTD/chtml1-strict.dtd">
+<html xmlns= " http//:www.w3.org/1999/xhtml">
+	<head>
+
+		<title> IS:Infinite Stratos Characters </title>
+		<style type= "text/css">
+		
+			.title
+			{
+			color: #000088 ;
+			font-family:  Verdana;
+			background-color: #00FFFF;
+			padding-left: 100px;
+			text-align: center;
+			}
+			.mainimage
+			{
+			text-align: center;
+			}
+			body
+			{
+			background-color: #000000;
+			}
+			.characters
+			{
+			color: #7FFFD4;
+			margin-left: 250px;
+			margin-right:100px;
+			padding-left:30px;
+			padding-right:10px;
+			border: 2px double #7FFFD4;
+			}
+
+			#side
+			{
+			
+			float-left;
+			border-width:3px;
+			border-style: solid;
+			border-color: #FF9900;
+			background-color: #FFFF33;
+			width:200px;
+			height:1000px;
+			}
+			.title , .mainimage , #side , .characters {
+			position:absolute;
+			}
+			.mainimage , #side , .characters {
+			top:120px;
+			}
+			.characters {
+			top:600px;
+			
+			}
+			.title{
+			width: 90%;
+			}
+			.mainimage , {
+			text-align:center;
+			}
+		</style>
+	</head> 
+
+<body>
+
+<h2 class="title">Infinite Stratos</h2> 
+<div class="mainimage">
+<p>
+<img src="http://animezoid.net/wp-content/uploads/2013/05/226602.jpg" width="50%">
+</p>
+</div>
+<div class="characters">
+<h2> Characters:</h2>
+<ul>
+
+<li><h4>Ichika Orimura</h4></li>
+<img src="http://cdn.myanimelist.net/images/characters/14/108068.jpg" width ="100" height = "200">
+<p>The male lead of the show, Ichika Orimura is a freshmen highschool boy who goes to the IS Academy,which is an all-girl school.
+How does he get in? Somehow, out of all the males in the world, he is the only one who is able to pilot an Infinite Stratos (IS). 
+After entering the school, he is reunited with his old childhood friends as well as making new ones ( all females of course), but to the girls, it's not just
+friendship with Orimura that they seek, it's his heart they each want. However, Orimura, oblivious of their feelings, has no clue what's going on when he gets slapped, hit with 
+a wooden sword, and scolded at. He pilots a <a href="byakushiki.html">Byakushiki</a>, his own personal IS.
+</p>
+
+<li><h4>Houki Shinonono</h4></li>
+<img src="houki.jpg" width="200" height="100">
+<p>
+Houki Shinonono, a kendo maniac,is one of Ichika's oldest childhood friends. They both met and became good friends at a dojo when they were still in first grade. But soon, Houki had to move 
+away to be protected from those who targetted Tabane for inventning the IS. After many years not seeing each other, Houki met Ichika at the IS academy only to find that most of the girls surround 
+Ichika to make him their lover.Houki is a tsundere who has definitely fallen in love with her childhood friend. She did not have an personal IS until later in the season; now she pilots the <a href="akatsubaki.html">Akatsubaki<a/>.
+</p>
+
+<li><h4>Cecilia Alcott</h4></li>
+<img src="cecilia.jpg" width="200" height="100">
+<p>
+Cecilia Alcott is a representative contender from England. Acting all elegant and haughty, Cecilia first met Ichika in her class. At first she felt insulted by Ichika, enough to challege him to a duel.Both characters were fighting for the 
+seat of class representative.They hated each other for that short time. After the match,which resulted in Cecilia's victory, Cecilia, for some uknown reason, began to fall in love with Ichika. She, though, has a different approach of
+making Ichika fall in love with her, but I shall not go into that, for some viewers may deem it inappropriate. She pilots <a href="bluetears.html">Blue Tears<a/>, her own personal IS.
+</p>
+
+<li><h4>
+Fan Rinin
+</h4></li>
+<img src="rin.png" width = "200" height ="100">
+<p>
+Fan Rinin is a representative contender for China.She is another one of Ichika's childhood friend.She, in fact is his <em>second</em> childhood friend. When Ichika and Rin where small, or smaller, Rin would always invite Ichika into her family's chinese restaurant for dinner. 
+Like all the other girls in this story, she is also in love with Ichika. She currently pilots the <a href="shenglong.html">Shenlong</a>.
+</p>
+
+<li><h4>
+Charlotte Dunois
+</h4></li>
+<img src="char.png" width="200" height="100">
+<p>
+Charlotte is from France. Her father is the  CEO of the Dunois company, a major production co. for the IS. Forced to go to school as a male, Charlotte was known as Charle by her classmates. Her main objective, though, was not to learn from the IS academy, 
+it was to gain information on the stats of the Byakushki to help the company survive.She falls in love with Ichika when he tries to protect her and urge her to stay at the academy for fun. She currently pilots the <a href="rrc2.html">Rafale Revive Custom II</a>. 
+</p>
+
+<li><h4>
+Laura Bodewig
+</h4></li>
+<img src="http://media.moddb.com/images/members/1/244/243031/Laura.1.jpg" width="200" height="100">
+<p>
+Laura is a the captain of Black Rabbit Squad in Germany. Her first objective when she transfered to the IS Academy was to bring Chifuya Orimura, their instructor, back to Germany to teach them more of the IS. She and Ichika also had a rough start, but ,still, she falls in love with 
+Ichika after a battle with him. Now her new objective is to make Ichika her "wife." She pilots the <a href="sr.html">Schwarzer Regen</a>.  
+</p>
+
+<li><h4>
+Chifuyu Orimura
+</h4></li>
+<img src="chifuyu.png" width = "200" height ="100">
+<p>
+Chifuyu Orimura is Ichika's older sister. She is the champion of the first Mondo Grosso, an IS competition, and almost became the second champion had not Ichika been kidnapped.She then became an IS instructor in germany for helping her find Ichika when he was kidnapped. She now is a teacher at the IS academy.
+She is a well known figure all around the world and is respected by all of the IS Academy students. She is not in the onslaught for Ichika's heart, but some girls see her as a threat.
+</p>
+</ul>
+</div>
+
+<div id="side">
+<h4>Collection</h4>
+<ul>
+	<li><a href="home2.html">Home</a></li>
+	<li><a href="characters.html">Characters</a></li>
+	<li><a href="IS.html">Personal IS</a></li>
+			<ul>
+			<li><a href="byakushiki.html"> Byakushiki</a> </li>
+	<li><a href="akatsubaki.html"> Akatsubaki</a></li>
+	<li><a href="bluetears.html"> Blue Tears</a></li>
+	<li><a href="shenglong.html"> Shenglong</a></li>
+	<li><a href="rrc2.html"> Rafale Revive Custom II</a></li>
+	<li><a href="sr.html"> Schwarzer Regen</a></li>
+		</ul>
+
+</ul>
+</div>
+
+</body>
+</html>
